@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+
+<titleStmt>
+  <title>Defacto segregation: SGA raps cheerleaders' policy</title>
+  <author>
+    <persName xml:id="jes">
+      <forename>Jeannette</forename>
+      <surname>Schollaert</surname>
+    </persName>
+  </author>
+  <respStmt>
+    <resp>Encoded by</resp>
+    <persName ref="#jes">Jeannette Schollaert</persName>
+  </respStmt>
+  <respStmt>
+    <resp>Encoded by</resp>
+    <persName ref="#jes">Jeannette Schollaert</persName>
+  </respStmt>
+  <respStmt>
+    <resp>Under the instruction of</resp>
+    <persName>Matthew Kirschenbaum</persName>
+    <persName>Raffaele Viglianti</persName>
+    <persName>Jessica H. Lu</persName>
+    <persName>Purdom Lindblad</persName>
+  </respStmt>
+  <respStmt>
+    <resp>Templates provided by</resp>
+    <persName>Raffaele Viglianti</persName>
+  </respStmt>
+  <respStmt>
+    <resp>Analytic framework inspired by</resp>
+    <persName>Jessica H. Lu</persName>
+  </respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>ENGL668 Critical Topics in Digital Studies Course</publisher>
+<pubPlace>
+<settlement>College Park</settlement>,
+<region type="state" n="MD">MD</region>
+</pubPlace>
+<date when="2018"> Spring Semester 2018</date>
+</publicationStmt>
+
+<sourceDesc>
+  <bibl>
+    <title type="main">Defacto segregation</title>
+    <title type="sub">SGA raps cheerleaders' policy</title>
+    <author>Jean Horan</author>
+    <biblScope n="volume">61</biblScope>
+    <biblScope n="number">81</biblScope>
+    <biblScope n="pages">12</biblScope>
+    <date when="1969-02-20">Thursday, February 20, 1969</date>
+  </bibl>
+  <msDesc>
+      <msIdentifier>
+          <repository>University of Maryland University Libraries, College Park MD</repository>
+          <collection>UMD Student Newspapers</collection>
+        </msIdentifier>
+    </msDesc>
+    <bibl>
+      <interpGrp>
+        <desc>Silences and abscences of women of color students at Maryland</desc>
+        <interp xml:id="SILENCE">Silence</interp>
+        <interp xml:id="ABSENCE">Absence</interp>
+      </interpGrp>
+    </bibl>
+    </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+          <p>Structural formatting has been mostly preserved, including paragraphs and column breaks, and line breaks indicated when interrupting words.</p></editorialDecl>
+    <projectDesc>
+          <p>
+            This brief project aims to trace the inclusivity of the University of Maryland's cheerleading squad through the lens of the <hi rend="italic">Diamondback</hi>'s coverage of the squad's discrimination in the 1960s and 1970s.
+          </p>
+    </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+          <langUsage>
+              <language ident="en-US">United States English</language>
+          </langUsage>
+      <particDesc>
+          <personGrp>
+            <persName xml:id="BLKWM">Black Women</persName>
+              <note>
+                This person group is necessary to point to the specific discrimination faced by women of color in social, athletic, academic, and institutional contexts.</note>
+            </personGrp>
+            <personGrp>
+                <persName xml:id="WHTWM">White Women</persName>
+                <note>
+                  This person group is necessary to racialize the otherwise neutral language used by the student journalists operating under the assumption that whiteness is the neutral default.</note>
+            </personGrp>
+            <personGrp>
+              <persName xml:id="BLK">Black and African American people</persName>
+              <note>
+                This person group is necessary to point to the positionality of black and African American people beyond potentially simplifying and monolithic language.</note>
+              </personGrp>
+              </particDesc>
+        </profileDesc>
+</teiHeader>
+
+<text>
+<body>
+  <head rend="left"><hi rend="bold">Defecto segretation:</hi></head>
+  <milestone unit="undeclared" rend="horbar-short-left"/>
+  <head rend="left" type="sub"><hi rend="bold"><hi rend="italic">SGA raps cheerleaders' policy</hi></hi></head>
+  <byline rend="center"><persName xml:id="JH">JEAN HORAN</persName></byline>
+  <byline rend="center">Staff writer</byline>
+
+  <div type="article">
+  <cb n="1"/>
+    <p>
+      <orgName xml:id="SGA">Student Government Associa­<choice><orig><lb break="no"/>tion</orig><reg>Association</reg></choice></orgName> Cabinet has accused the <orgName xml:id="CL">cheerleaders</orgName> of de facto segre<lb break="no"/>gation and discrimination in a brief submitted <date when="1969-02-19">yesterday</date> to the <orgName>judiciary office</orgName>.
+      <persName xml:id="RF"><forename>Ray</forename> <surname>Ferrara</surname></persName>, <orgName ref="#SGA" type="acronym">SGA</orgName> treasurer and co-author of the brief, said the brief was “<q who="#RF">prepared to insure that the defacto segregation that now exists will eventually be corrected</q>.” According to <persName ref="#RF">Ferrara</persName>, if the court rules in favor of the brief, the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> will be reor­ganized to be more <choice><orig>representa­<lb break="no"/>tive</orig><reg>representative</reg></choice> of the student body. The <orgName ref="#SGA">Cabinet</orgName> brief against the <orgName ref="#CL">cheerleaders</orgName> contains four points of argument;</p>
+    <p>
+      • The <orgName ref="#CL">cheerleaders</orgName> are not a recognized campus organization,</p>
+  <cb n="2"/>
+    <p>
+      • the most recent <orgName ref="#CL"><choice><orig>cheer<lb break="no"/>leading</orig><reg>cheerleading</reg></choice></orgName> tryouts showed evidence of defacto segregation and <choice><orig>discrimi­<lb break="no"/>nation</orig><reg>discrimination</reg></choice>,</p>
+    <p>
+      <choice><orig>0</orig><reg>•</reg></choice> the <orgName ref="#CL">cheerleaders</orgName> maintain that <persName ref="BLKWM">black</persName> cheerleaders would provide additional financial burden and inconvenience because the squad could no longer stay in <orgName>sorority</orgName> and <orgName>fraternity</orgName> houses at <placeName>southern</placeName> schools during away games and</p>
+    <p>
+      • the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> stated at a fall meeting of the Cabinet that “<q who="cheerleaders"><persName ref="#BLKWM">black women’s</persName> movements are too fluid and selection of black women would not maintain <choice><orig>con­<lb break="no"/>tinuity</orig><reg>continuity</reg></choice> within the squad</q>.”</p>
+    <p>
+      According to the brief, the <orgName ref="#CL">cheerleaders</orgName> should not be <choice><orig>per­<lb break="no"/>mitted</orig><reg>permitted</reg></choice> to use the name of the University or represent the <choice><orig>stu­<lb break="no"/>dents</orig><reg>students</reg></choice> because they are not a recognized student activity.</p>
+  <cb n="3"/>
+    <p>
+      Currently, the <orgName ref="#CL">cheerleaders</orgName> are not recognized by <orgName ref="#SGA">SGA</orgName> be­cause they fail to comply with the requirement that student groups must have a constitution.</p>
+    <p>
+      However, according to <persName ref="#RF"><surname><choice><orig>Fer­<lb break="no"/>rara</orig><reg>Ferrara</reg></choice></surname></persName>, <orgName ref="#SGA">SGA</orgName> "<q who="#RF">underwrites</q>" the activities of the <orgName ref="#CL">cheerleaders</orgName>, and provides them with funds.</p>
+    <p>
+      <orgName ref="#SGA">SGA</orgName> President <persName xml:id="JF"><forename>Jerry</forename> <surname>Fleischer</surname></persName> said last night that <orgName ref="#SGA">SGA</orgName> will withhold cheerleader funds from now on because they are not a recognized student activity.</p>
+    <p>
+      "<q who="#JF">We never bothered to check in the fall whether the <choice><orig>cheerlead<lb break="no"/>­ers</orig><reg>cheerleaders</reg></choice> were recognized</q>," he explained. "<q who="#JF">They’ve been on <choice><orig>cam­<lb break="no"/>pus</orig><reg>campus</reg></choice> so long</q>."</p>
+    <p>
+      Further, the <orgName ref="#UMD">University</orgName>’s General and Academic Rules state that, "<q who="#UMD">No organization may represent the <orgName ref="#UMD">University</orgName> without the approval of the <orgName ref="#SGA" type="acronym">SGA</orgName> and the
+  <cb n="4"/>
+    <orgName>Faculty Senate Committee on Student Activities</orgName></q>."</p>
+    <p>
+      Besides denying the <orgName ref="#CL"><choice><orig>cheerlead­<lb break="no"/>ers</orig><reg>cheerleaders</reg></choice></orgName> the right to represent the <orgName ref="#UMD">University</orgName>, the brief also calls for denying the funds on the grounds that they violate the <orgName ref="#UMD">University</orgName> policy declarations on discrimination.</p>
+    <p>
+      The brief also maintains that since the <orgName ref="#CL">cheerleaders</orgName> are guilty of "clearly discriminatory” selection, they may be cut off from state funds.</p>
+    <p>
+      "<q who="#RF">The <region type="state" n="MD">state</region> says that there will be no discrimination and according to the <choice><orig>non-dlscrimi­<lb break="no"/>natory</orig><reg>non-disciminatory</reg></choice> policy of the <orgName>Faculty Senate</orgName> and the <orgName ref="#UMD">University</orgName> <choice><orig>presi<lb break="no"/>­dent</orig><reg>president</reg></choice>, the funds cannot be used where discrimination exists</q>," Ferrara explained.</p>
+  </div>
+</body>
+</text>
+</TEI>
