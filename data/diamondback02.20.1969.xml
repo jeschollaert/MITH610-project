@@ -6,7 +6,7 @@
 <fileDesc>
 
 <titleStmt>
-  <title>Defacto segregation: SGA raps cheerleaders' policy</title>
+  <title>Article 1: Defacto segregation: SGA raps cheerleaders' policy</title>
   <author>
     <persName xml:id="jes">
       <forename>Jeannette</forename>
@@ -112,7 +112,7 @@
   <div type="article">
   <cb n="1"/>
     <p>
-      <orgName xml:id="SGA">Student Government Associa­<choice><orig><lb break="no"/>tion</orig><reg>Association</reg></choice></orgName> Cabinet has accused the <orgName xml:id="CL">cheerleaders</orgName> of de facto segre<lb break="no"/>gation and discrimination in a brief submitted <date when="1969-02-19">yesterday</date> to the <orgName>judiciary office</orgName>.
+      <orgName xml:id="SGA">Student Government Association</orgName> Cabinet has accused the <orgName xml:id="CL">cheerleaders</orgName> of de facto segregation and discrimination in a brief submitted <date when="1969-02-19">yesterday</date> to the <orgName>judiciary office</orgName>.
       <persName xml:id="RF"><forename>Ray</forename> <surname>Ferrara</surname></persName>, <orgName ref="#SGA" type="acronym">SGA</orgName> treasurer and co-author of the brief, said the brief was “<q who="#RF">prepared to insure that the defacto segregation that now exists will eventually be corrected</q>.” According to <persName ref="#RF">Ferrara</persName>, if the court rules in favor of the brief, the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> will be reor­ganized to be more <choice><orig>representa­<lb break="no"/>tive</orig><reg>representative</reg></choice> of the student body. The <orgName ref="#SGA">Cabinet</orgName> brief against the <orgName ref="#CL">cheerleaders</orgName> contains four points of argument;</p>
     <p>
       • The <orgName ref="#CL">cheerleaders</orgName> are not a recognized campus organization,</p>
