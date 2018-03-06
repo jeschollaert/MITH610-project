@@ -103,7 +103,7 @@
 
 <text>
 <body>
-  <head rend="left"><hi rend="bold">Defecto segregatation:</hi></head>
+  <head rend="left"><hi rend="bold">Defacto segregatation:</hi></head>
   <milestone unit="undeclared" rend="horbar-short-left"/>
   <head rend="left" type="sub"><hi rend="bold"><hi rend="italic">SGA raps cheerleaders' policy</hi></hi></head>
   <byline rend="center"><persName xml:id="JH">JEAN HORAN</persName></byline>
@@ -112,8 +112,9 @@
   <div type="article">
   <cb n="1"/>
     <p>
-      <orgName xml:id="SGA">Student Government Association</orgName> Cabinet has accused the <orgName xml:id="CL">cheerleaders</orgName> of de facto segregation and discrimination in a brief submitted <date when="1969-02-19">yesterday</date> to the <orgName>judiciary office</orgName>.
-      <persName xml:id="RF"><forename>Ray</forename> <surname>Ferrara</surname></persName>, <orgName ref="#SGA" type="acronym">SGA</orgName> treasurer and co-author of the brief, said the brief was “<q who="#RF">prepared to insure that the defacto segregation that now exists will eventually be corrected</q>.” According to <persName ref="#RF">Ferrara</persName>, if the court rules in favor of the brief, the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> will be reor­ganized to be more representative of the student body. The <orgName ref="#SGA">Cabinet</orgName> brief against the <orgName ref="#CL">cheerleaders</orgName> contains four points of argument;</p>
+      <orgName xml:id="SGA">Student Government Association</orgName> Cabinet has accused the <orgName xml:id="CL">cheerleaders</orgName> of <choice><orig>de facto</orig><reg>defacto</reg></choice> segregation and discrimination in a brief submitted <date when="1969-02-19">yesterday</date> to the <orgName>judiciary office</orgName>.
+      <persName xml:id="RF"><forename>Ray</forename> <surname>Ferrara</surname></persName>, <orgName ref="#SGA" type="acronym">SGA</orgName> treasurer and co-author of the brief, said the brief was “<q who="#RF">prepared to insure that the defacto segregation that now exists will eventually be corrected</q>.” According to <persName ref="#RF">Ferrara</persName>, if the court rules in favor of the brief, the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> will be reor­ganized to be more representative of the student body.
+      The <orgName ref="#SGA">Cabinet</orgName> brief against the <orgName ref="#CL">cheerleaders</orgName> contains four points of argument;</p>
     <p>
       • The <orgName ref="#CL">cheerleaders</orgName> are not a recognized campus organization,</p>
   <cb n="2"/>
@@ -122,7 +123,7 @@
     <p>
       <choice><orig>0</orig><reg>•</reg></choice> the <orgName ref="#CL">cheerleaders</orgName> maintain that <persName ref="BLKWM">black</persName> cheerleaders would provide additional financial burden and inconvenience because the squad could no longer stay in <orgName>sorority</orgName> and <orgName>fraternity</orgName> houses at <placeName>southern</placeName> schools during away games and</p>
     <p>
-      • the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> stated at a fall meeting of the Cabinet that “<q who="cheerleaders"><persName ref="#BLKWM">black women’s</persName> movements are too fluid and selection of black women would not maintain continuity within the squad</q>.”</p>
+      • the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> stated at a fall meeting of the Cabinet that “<q who="#CL"><persName ref="#BLKWM">black women’s</persName> movements are too fluid and selection of black women would not maintain continuity within the squad</q>.”</p>
     <p>
       According to the brief, the <orgName ref="#CL">cheerleaders</orgName> should not be permitted to use the name of the University or represent the students because they are not a recognized student activity.</p>
   <cb n="3"/>
