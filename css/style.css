@@ -3,8 +3,12 @@
   margin: 0 0 1em 0;
 }
 
-tei-teiHeader {
-  display: respStmt; publicationStmt; encodingDesc; 
+tei-publicationStmt {
+  display: none;
 }
 
-tei-supplied {font-style:italic}
+tei-sourceDesc {
+  display: block;
+}
+
+tei-choice {font-style:italic}
