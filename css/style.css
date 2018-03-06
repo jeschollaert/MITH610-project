@@ -4,7 +4,7 @@
 }
 
 tei-teiHeader {
-  display: respStmt; display: publicationStmt; display: encodingDesc; 
+  display: respStmt; publicationStmt; encodingDesc; 
 }
 
 tei-supplied {font-style:italic}
