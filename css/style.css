@@ -10,11 +10,20 @@ h1 {
 div {
   border-bottom-style: dotted
 }
+p.ex1 {
+  text-align: center;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+}
 p.ex {
   font-family: "Times New Roman", Times, serif
 }
 p.ex2 {
   display: block;
+  font-family: "Times New Roman", Times, serif;
+}
+p.ex3 {
+  font-style: italic;
   font-family: "Times New Roman", Times, serif;
 }
 hi {
