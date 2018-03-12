@@ -46,7 +46,7 @@
 <sourceDesc>
   <bibl>
     <title type="main">Legislature studies cheerleader policies</title>
-    <author>Unnamed</author>
+    <author>Unnamed Author</author>
     <biblScope n="volume">63</biblScope>
     <biblScope n="number">68</biblScope>
     <biblScope n="pages">6</biblScope>
@@ -87,13 +87,12 @@
             </personGrp>
             <personGrp>
                 <persName xml:id="WHTWM">White Women</persName>
-                <note>This person group is necessary to racialize the otherwise neutral language used by the student journalists operating under the assumption that whiteness is the neutral default.</note>
+                <note>This person group is necessary to make visible the assumptions of race underlying the language used by student journalists, which constructs whiteness as the default, neutral race. It must also be noted that this person group risks projecting understandings of race onto groups whose diversity is invisible or unapparent to a reader removed through decades of history, or groups that include white-passing individuals who deliberately silenced themselves regarding their race.</note>
             </personGrp>
-            <personGrp>
-              <persName xml:id="BLK">Black and African American people</persName>
-              <note>This person group is necessary to point to the positionality of black and African American people beyond potentially simplifying and monolithic language.</note>
-              </personGrp>
               <listOrg>
+                  <org>
+                      <orgName xml:id="UMD" ref="https://www.umd.edu/history-and-mission">University of Maryland, College Park</orgName>
+                      </org>
                   <org>
                       <orgName xml:id="SGA" ref="https://www.umdsga.com/about.html">University of Maryland Student Government Association</orgName>
                       </org>
@@ -112,7 +111,7 @@
   <div type="article">
     <cb n="1"/>
       <p>
-        <orgName ref="#SGA">Student Government Association</orgName> Legislature voted last night to conduct an Investigation into the present <orgName ref="#CL">cheerleader</orgName> selection process because of <interp ana="#SILENCE">alleged</interp> racial discrimination.</p>
+        <orgName ref="#SGA">Student Government Association</orgName> Legislature voted last night to conduct an <interp ana="#NAMED">Investigation</interp> into the present <orgName ref="#CL">cheerleader</orgName> selection process because of <interp ana="#SILENCE">alleged</interp> racial discrimination.</p>
       <p>
         Legislator <persName xml:id="CW"><forename>Cheryl</forename> <surname>Williams</surname></persName>, who proposed the Investigation, charged the 12-member cheerleader selection panel practiced a “<q who="#CW"><interp ana="#NAMED">blatent form of institutional racism</interp></q>” because <interp ana="#ABSENCE">it did not select any of the seven</interp> <persName ref="#BLKWM">blacks</persName> who tried out for the seven vacant positions on the 10-girl squad.</p>
       <p>
@@ -120,7 +119,8 @@
       <p>
         Last <date when="1969-12">December</date> <persName xml:id="AS"><forename>Angie</forename> <surname>Sharp</surname></persName> and <persName xml:id="JR"><forename>Jacqueline</forename> <surname>Robinson</surname></persName> became the <interp ana="#NAMED">first black cheerleaders</interp> on the squad in 30 years. <persName ref="#JR">Robinson</persName> dropped off the squad <date when="1969">last year</date>; <persName ref="#AS">Sharp</persName> will leave in <date when="1971-06">June</date>.</p>
       <p>
-        <interp ana="#SILENCE"/>In addition, <orgName ref="#SGA">legislature</orgName> is now drawing up a proposal concerning the student activity fee to present to Chancel­lor <persName xml:id="CEB"><forename type="first">Charles</forename> E. <surname>Bishop</surname></persName>’s committee which <choice><orig>Is</orig><reg>is</reg></choice> studying the question of how the fee should be collected and distributed.</p>
+        <interp ana="#SILENCE"/>
+        In addition, <orgName ref="#SGA">legislature</orgName> is now drawing up a proposal concerning the student activity fee to present to Chancel­lor <persName xml:id="CEB"><forename type="first">Charles</forename> E. <surname>Bishop</surname></persName>’s committee which <choice><orig>Is</orig><reg>is</reg></choice> studying the question of how the fee should be collected and distributed.</p>
     <cb n="2"/>
       <p>
         The proposal under consideration will recommend that the fee remain mandatory but that it be placed in a revolving account for <orgName type="acronym" ref="#SGA">SGA</orgName> use ex­clusively.</p>
@@ -129,7 +129,7 @@
       <p>
         Legislator <persName xml:id="PL"><forename>Pat</forename> <surname>Leer</surname></persName> will head a committee which will meet with <persName ref="#CEB">Bishop</persName> to discuss obtaining funds for staffing the <orgName xml:id="UL">library</orgName> with more students to work in the stacks.</p>
       <p>
-        <persName ref="#PL">Leer</persName>, who is a <orgName ref="#UL">library</orgName> employee, said the number of student workers has been cut because of a recent library budget cut by the <placeName xml:id="UMD">University</placeName>. He claims the reduced amount of help will cause books to be shelved more slowly and make it impossible for students to locate books they need for course work.</p>
+        <persName ref="#PL">Leer</persName>, who is a <orgName ref="#UL">library</orgName> employee, said the number of student workers has been cut because of a recent library budget cut by the <placeName ref="#UMD">University</placeName>. He claims the reduced amount of help will cause books to be shelved more slowly and make it impossible for students to locate books they need for course work.</p>
       <p>
         The <orgName ref="#SGA">legislature</orgName> also endorsed a move by <persName xml:id="JD"><forename>John</forename> <surname>Daly</surname></persName> that the <orgName xml:id="SUB">Student Union Board</orgName> join an association of Student Union Boards of colleges and universities in the <region type="DMV">greater <settlement>Washington</settlement> area</region>.
         The association, which will include <orgName xml:id="AU">American</orgName>, <orgName xml:id="CU">Catholic</orgName>, <orgName xml:id="GWU">George Washington</orgName> and <orgName xml:id="GU">Georgetown</orgName> Universities and <orgName xml:id="GMU">George Mason</orgName> College as well as the University, is being created to establish greater cooperation in the exchange of informationon student planned events.</p>

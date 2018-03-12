@@ -91,18 +91,15 @@
             <personGrp>
                 <persName xml:id="WHTWM">White Women</persName>
                 <note>
-                  This person group is necessary to racialize the otherwise neutral language used by the student journalists operating under the assumption that whiteness is the neutral default.</note>
+                  This person group is necessary to make visible the assumptions of race underlying the language used by student journalists, which constructs whiteness as the default, neutral race. It must also be noted that this person group risks projecting understandings of race onto groups whose diversity is invisible or unapparent to a reader removed through decades of history, or groups that include white-passing individuals who deliberately silenced themselves regarding their race.</note>
             </personGrp>
-            <personGrp>
-              <persName xml:id="BLK">Black and African American people</persName>
-              <note>
-                This person group is necessary to point to the positionality of black and African American people beyond potentially simplifying and monolithic language.</note>
-              </personGrp>
                   <listOrg>
+                    <org>
+                        <orgName xml:id="UMD" ref="https://www.umd.edu/history-and-mission">University of Maryland, College Park</orgName>
+                        </org>
                       <org>
                           <orgName xml:id="SGA" ref="https://www.umdsga.com/about.html">University of Maryland Student Government Association</orgName>
                           </org>
-
                       <org>
                         <orgName xml:id="CL" ref="https://www.marylandcheerleading.com/">University of Maryland Cheerleading Squad</orgName>
                         </org>
@@ -152,7 +149,7 @@
     <p>
       Besides denying the <orgName ref="#CL">cheerleaders</orgName> the right to represent the <orgName ref="#UMD">University</orgName>, the brief also calls for denying the funds on the grounds that they violate the <orgName ref="#UMD">University</orgName> policy declarations on discrimination.</p>
     <p>
-      The brief also maintains that since the <orgName ref="#CL">cheerleaders</orgName> are guilty of "clearly discriminatory” selection, they may be cut off from state funds.</p>
+      The brief also maintains that since the <orgName ref="#CL">cheerleaders</orgName> are guilty of <interp ana="#NAMED">"clearly discriminatory”</interp> selection, they may be cut off from state funds.</p>
     <p>
       "<q who="#RF">The <region type="state" n="MD">state</region> says that there will be no discrimination and according to the non-disciminatory policy of the <orgName>Faculty Senate</orgName> and the <orgName ref="#UMD">University</orgName> president, the funds cannot be used where discrimination exists</q>," Ferrara explained.</p>
   </div>

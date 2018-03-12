@@ -5,6 +5,13 @@
 
 h1 {
   text-align: center; font-family: "Times New Roman", Times, serif;
+  border-bottom: double
+}
+div {
+  border-bottom-style: dotted
+}
+p.ex {
+  font-family: "Times New Roman", Times, serif
 }
 tei-titleStmt {
   font-family: "Times New Roman", Times, serif;
@@ -21,22 +28,20 @@ tei-publicationStmt {
 tei-encodingDesc {
   display: table-footer-group; font-family: "Times New Roman", Times, serif;
 }
-tei-persGrp {
-  font-style:italic
-}
 tei-body {
   font-family: Arial, Helvetica, serif;
 }
-tei-text > tei-div > tei-cb {
+tei-cb {
   text-align: right;
 }
-tei-div > tei-interpGrp {
+tei-interp {
+  font-style: italic;
+}
+/* difficulties below; text-decoration: underline | font-weight: bold*/
+data-tei-persName #BLKWM {
   text-decoration: underline;
 }
-tei-interpGRp {font-style: italic;}
-#WHTWM {tei-font-style:italic}
-#BLKWM {tei-font-style:oblique}
-#SGA {tei-font-weight: bold;}
-#NAMED {tei-font-style: italic;}
-#SILENCE {tei-font-style: italic;}
-#ABSENCE {tei-font-style: italic;}
+tei-persName[data-tei-persName="#WHTWM"] {
+  border-bottom-style: solid;
+  border-bottom-color: blue;
+}
