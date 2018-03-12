@@ -3,12 +3,18 @@
   margin: 0 0 1em 0;
 }
 
+h1 {text-align: center}
+
 tei-publicationStmt {
   display: none;
 }
 
-tei-sourceDesc {
-  display: block;
+tei-encodingDesc {
+  display: table-footer-group;
 }
 
-tei-choice {font-style:italic}
+tei-persGrp {font-style:italic}
+
+#WHTWM {font-style:italic}
+#BLKWM {font-style:oblique}
+#SGA {font-weight: bold;}

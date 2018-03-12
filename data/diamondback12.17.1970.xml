@@ -60,9 +60,10 @@
     </msDesc>
     <bibl>
     <interpGrp>
-      <desc>Silences and abscences of women of color students at Maryland</desc>
+      <desc>Silences, abscences, and named experiences of women of color students at Maryland</desc>
       <interp xml:id="SILENCE">Silence</interp>
       <interp xml:id="ABSENCE">Absence</interp>
+      <interp xml:id="NAMED">Named</interp>
     </interpGrp>
     </bibl>
   </sourceDesc>
@@ -71,7 +72,7 @@
     <editorialDecl>
         <p>Structural formatting has been mostly preserved, including paragraphs and column breaks, and line breaks indicated when interrupting words.</p></editorialDecl>
     <projectDesc>
-        <p>This brief project aims to trace the inclusivity of the University of Maryland's cheerleading squad through the lens of the <hi rend="italic">Diamondback</hi>'s coverage of the squad's discrimination in the 1960s and 1970s.
+        <p>This brief project aims to trace the inclusivity of the University of Maryland's cheerleading squad through the <hi rend="italic">Diamondback</hi>'s coverage of the squad's history of segregation in the 1960s and 1970s.
       </p>
     </projectDesc>
     </encodingDesc>
@@ -92,6 +93,14 @@
               <persName xml:id="BLK">Black and African American people</persName>
               <note>This person group is necessary to point to the positionality of black and African American people beyond potentially simplifying and monolithic language.</note>
               </personGrp>
+              <listOrg>
+                  <org>
+                      <orgName xml:id="SGA" ref="https://www.umdsga.com/about.html">University of Maryland Student Government Association</orgName>
+                      </org>
+                  <org>
+                    <orgName xml:id="CL" ref="https://www.marylandcheerleading.com/">University of Maryland Cheerleading Squad</orgName>
+                    </org>
+                  </listOrg>
               </particDesc>
         </profileDesc>
 </teiHeader>
@@ -103,15 +112,15 @@
   <div type="article">
     <cb n="1"/>
       <p>
-        <orgName xml:id="SGA">Student Government Association</orgName> Legislature voted last night to conduct an Investigation into the present <orgName xml:id="CL">cheerleader</orgName> selection process because of alleged racial discrimination.</p>
+        <orgName ref="#SGA">Student Government Association</orgName> Legislature voted last night to conduct an Investigation into the present <orgName ref="#CL">cheerleader</orgName> selection process because of <interp ana="#SILENCE">alleged</interp> racial discrimination.</p>
       <p>
-        Legislator <persName xml:id="CW"><forename>Cheryl</forename> <surname>Williams</surname></persName>, who proposed the Investigation, charged the 12-member cheerleader selection panel practiced a “<q who="#CW">blatent form of institutional racism</q>” because it did not select any of the seven <persName ref="#BLKWM">blacks</persName> who tried out for the seven vacant positions on the 10-girl squad.</p>
+        Legislator <persName xml:id="CW"><forename>Cheryl</forename> <surname>Williams</surname></persName>, who proposed the Investigation, charged the 12-member cheerleader selection panel practiced a “<q who="#CW"><interp ana="#NAMED">blatent form of institutional racism</interp></q>” because <interp ana="#ABSENCE">it did not select any of the seven</interp> <persName ref="#BLKWM">blacks</persName> who tried out for the seven vacant positions on the 10-girl squad.</p>
       <p>
-        According to <persName ref="#CW">Williams</persName>, two of the seven <persName ref="BLKWM">blacks</persName> made it to the top ten but were not among the <persName ref="WHTWM">girls</persName> chosen to fill out the squad. <interp ana="#ABSENCE">The squad will have no black members next year.</interp></p>
+        According to <persName ref="#CW">Williams</persName>, two of the seven <persName ref="BLKWM">blacks</persName> made it to the top ten but were not among the <persName ref="WHTWM">girls</persName> chosen to fill out the squad. <interp ana="#ABSENCE">The squad will have no black members next year</interp>.</p>
       <p>
-        Last <date when="1969-12">December</date> <persName xml:id="AS"><forename>Angie</forename> <surname>Sharp</surname></persName> and <persName xml:id="JR"><forename>Jacqueline</forename> <surname>Robinson</surname></persName> became the first black cheerleaders on the squad in 30 years. <persName ref="#JR">Robinson</persName> dropped off the squad <date when="1969">last year</date>; <persName ref="#AS">Sharp</persName> will leave in <date when="1971-06">June</date>.</p>
+        Last <date when="1969-12">December</date> <persName xml:id="AS"><forename>Angie</forename> <surname>Sharp</surname></persName> and <persName xml:id="JR"><forename>Jacqueline</forename> <surname>Robinson</surname></persName> became the <interp ana="#NAMED">first black cheerleaders</interp> on the squad in 30 years. <persName ref="#JR">Robinson</persName> dropped off the squad <date when="1969">last year</date>; <persName ref="#AS">Sharp</persName> will leave in <date when="1971-06">June</date>.</p>
       <p>
-        In addition, <orgName ref="#SGA">legislature</orgName> is now drawing up a proposal concerning the student activity fee to present to Chancel­lor <persName xml:id="CEB"><forename type="first">Charles</forename> E. <surname>Bishop</surname></persName>’s committee which <choice><orig>Is</orig><reg>is</reg></choice> studying the question of how the fee should be collected and distributed.</p>
+        <interp ana="#SILENCE"/>In addition, <orgName ref="#SGA">legislature</orgName> is now drawing up a proposal concerning the student activity fee to present to Chancel­lor <persName xml:id="CEB"><forename type="first">Charles</forename> E. <surname>Bishop</surname></persName>’s committee which <choice><orig>Is</orig><reg>is</reg></choice> studying the question of how the fee should be collected and distributed.</p>
     <cb n="2"/>
       <p>
         The proposal under consideration will recommend that the fee remain mandatory but that it be placed in a revolving account for <orgName type="acronym" ref="#SGA">SGA</orgName> use ex­clusively.</p>

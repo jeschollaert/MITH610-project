@@ -61,9 +61,10 @@
     </msDesc>
     <bibl>
       <interpGrp>
-        <desc>Silences and abscences of women of color students at Maryland</desc>
+        <desc>Silences, abscences, and named experiences of women of color students at Maryland</desc>
         <interp xml:id="SILENCE">Silence</interp>
         <interp xml:id="ABSENCE">Absence</interp>
+        <interp xml:id="NAMED">Named</interp>
       </interpGrp>
     </bibl>
     </sourceDesc>
@@ -73,7 +74,7 @@
           <p>Structural formatting has been mostly preserved, including paragraphs and column breaks, and line breaks indicated when interrupting words.</p></editorialDecl>
     <projectDesc>
           <p>
-            This brief project aims to trace the inclusivity of the University of Maryland's cheerleading squad through the lens of the <hi rend="italic">Diamondback</hi>'s coverage of the squad's discrimination in the 1960s and 1970s.
+            This brief project aims to trace the inclusivity of the University of Maryland's cheerleading squad through the <hi rend="italic">Diamondback</hi>'s coverage of the squad's history of segregation in the 1960s and 1970s.
           </p>
     </projectDesc>
     </encodingDesc>
@@ -97,6 +98,15 @@
               <note>
                 This person group is necessary to point to the positionality of black and African American people beyond potentially simplifying and monolithic language.</note>
               </personGrp>
+                  <listOrg>
+                      <org>
+                          <orgName xml:id="SGA" ref="https://www.umdsga.com/about.html">University of Maryland Student Government Association</orgName>
+                          </org>
+
+                      <org>
+                        <orgName xml:id="CL" ref="https://www.marylandcheerleading.com/">University of Maryland Cheerleading Squad</orgName>
+                        </org>
+                      </listOrg>
               </particDesc>
         </profileDesc>
 </teiHeader>
@@ -112,18 +122,18 @@
   <div type="article">
   <cb n="1"/>
     <p>
-      <orgName xml:id="SGA">Student Government Association</orgName> Cabinet has accused the <orgName xml:id="CL">cheerleaders</orgName> of <choice><orig>de facto</orig><reg>defacto</reg></choice> segregation and discrimination in a brief submitted <date when="1969-02-19">yesterday</date> to the <orgName>judiciary office</orgName>.
-      <persName xml:id="RF"><forename>Ray</forename> <surname>Ferrara</surname></persName>, <orgName ref="#SGA" type="acronym">SGA</orgName> treasurer and co-author of the brief, said the brief was “<q who="#RF">prepared to insure that the defacto segregation that now exists will eventually be corrected</q>.” According to <persName ref="#RF">Ferrara</persName>, if the court rules in favor of the brief, the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> will be reor­ganized to be more representative of the student body.
+      <orgName ref="#SGA">Student Government Association</orgName> Cabinet has accused the <orgName ref="#CL">cheerleaders</orgName> of <choice><orig>de facto</orig><reg>defacto</reg></choice> segregation and discrimination in a <interp ana="#NAMED">brief</interp> submitted <date when="1969-02-19">yesterday</date> to the <orgName>judiciary office</orgName>.
+      <persName xml:id="RF"><forename>Ray</forename> <surname>Ferrara</surname></persName>, <orgName ref="#SGA" type="acronym">SGA</orgName> treasurer and co-author of the brief, said the brief was “<q who="#RF">prepared to insure that the defacto segregation that now exists will eventually be corrected</q>.” According to <persName ref="#RF">Ferrara</persName>, if the court rules in favor of the brief, the <persName ref="WHTWM">cheerleaders</persName> will be reor­ganized to be more representative of the student body.
       The <orgName ref="#SGA">Cabinet</orgName> brief against the <orgName ref="#CL">cheerleaders</orgName> contains four points of argument;</p>
     <p>
       • The <orgName ref="#CL">cheerleaders</orgName> are not a recognized campus organization,</p>
   <cb n="2"/>
     <p>
-      • the most recent <orgName ref="#CL">cheerleading</orgName> tryouts showed evidence of defacto segregation and discrimination,</p>
+      • the most recent <orgName ref="#CL">cheerleading</orgName> tryouts showed <interp ana="#NAMED">evidence</interp> of defacto segregation and discrimination,</p>
     <p>
-      <choice><orig>0</orig><reg>•</reg></choice> the <orgName ref="#CL">cheerleaders</orgName> maintain that <persName ref="BLKWM">black</persName> cheerleaders would provide additional financial burden and inconvenience because the squad could no longer stay in <orgName>sorority</orgName> and <orgName>fraternity</orgName> houses at <placeName>southern</placeName> schools during away games and</p>
+      <choice><orig>0</orig><reg>•</reg></choice> the <orgName ref="#CL">cheerleaders</orgName> maintain that <persName ref="BLKWM">black</persName> cheerleaders would provide additional financial burden and inconvenience because the squad could no longer stay in <persName ref="#WHTWM">sorority</persName> and <orgName>fraternity</orgName> houses at <placeName>southern</placeName> schools during away games and</p>
     <p>
-      • the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> stated at a fall meeting of the Cabinet that “<q who="#CL"><persName ref="#BLKWM">black women’s</persName> movements are too fluid and selection of black women would not maintain continuity within the squad</q>.”</p>
+      • the <persName ref="WHTWM"><orgName ref="#CL">cheerleaders</orgName></persName> stated at a fall meeting of the Cabinet that “<q who="#CL"><persName ref="#BLKWM">black women’s</persName> movements are too fluid and selection of <persName ref="BLKWM">black women</persName> would not maintain continuity within the squad</q>.”</p>
     <p>
       According to the brief, the <orgName ref="#CL">cheerleaders</orgName> should not be permitted to use the name of the University or represent the students because they are not a recognized student activity.</p>
   <cb n="3"/>
@@ -144,7 +154,7 @@
     <p>
       The brief also maintains that since the <orgName ref="#CL">cheerleaders</orgName> are guilty of "clearly discriminatory” selection, they may be cut off from state funds.</p>
     <p>
-      "<q who="#RF">The <region type="state" n="MD">state</region> says that there will be no discrimination and according to the >non-disciminatory policy of the <orgName>Faculty Senate</orgName> and the <orgName ref="#UMD">University</orgName> president, the funds cannot be used where discrimination exists</q>," Ferrara explained.</p>
+      "<q who="#RF">The <region type="state" n="MD">state</region> says that there will be no discrimination and according to the non-disciminatory policy of the <orgName>Faculty Senate</orgName> and the <orgName ref="#UMD">University</orgName> president, the funds cannot be used where discrimination exists</q>," Ferrara explained.</p>
   </div>
 </body>
 </text>
