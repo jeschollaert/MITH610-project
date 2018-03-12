@@ -13,6 +13,13 @@ div {
 p.ex {
   font-family: "Times New Roman", Times, serif
 }
+p.ex2 {
+  display: block;
+  font-family: "Times New Roman", Times, serif;
+}
+hi {
+  font-style: italic;
+}
 tei-titleStmt {
   font-family: "Times New Roman", Times, serif;
 }
@@ -27,6 +34,9 @@ tei-publicationStmt {
 }
 tei-encodingDesc {
   display: table-footer-group; font-family: "Times New Roman", Times, serif;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
 }
 tei-body {
   font-family: Arial, Helvetica, serif;
@@ -38,6 +48,9 @@ tei-interp {
   font-style: italic;
 }
 /* difficulties below; text-decoration: underline | font-weight: bold*/
+tei-persName.BLKWM {
+  text-decoration: underline;
+}
 data-tei-persName #BLKWM {
   text-decoration: underline;
 }
