@@ -29,7 +29,7 @@
     <persName>Raffaele Viglianti</persName>
   </respStmt>
   <respStmt>
-    <resp>Analytic framework inspired by</resp>
+    <resp>Analytic framework inspired by the work of</resp>
     <persName>Jessica H. Lu</persName>
   </respStmt>
 </titleStmt>
@@ -70,9 +70,9 @@
   </fileDesc>
     <encodingDesc>
     <editorialDecl>
-        <p>Structural formatting has been mostly preserved, including paragraphs and column breaks, and line breaks indicated when interrupting words.</p></editorialDecl>
+        <p>Structural formatting has been mostly preserved, including paragraphs and column breaks. Line breaks not preserved.</p></editorialDecl>
     <projectDesc>
-        <p>This brief project aims to trace the inclusivity of the University of Maryland's cheerleading squad through the <hi rend="italic">Diamondback</hi>'s coverage of the squad's history of segregation in the 1960s and 1970s.
+        <p>This brief project aims to trace the inclusivity of the University of Maryland's cheerleading squad through the <hi rend="italic">Diamondback</hi>'s coverage of the squad's segregation in the years 1969 and 1970.
       </p>
     </projectDesc>
     </encodingDesc>

@@ -3,18 +3,23 @@
   margin: 0 0 1em 0;
 }
 
-h1 {text-align: center}
-
+h1 {
+  text-align: center
+}
+tei-div{
+  text-align:right; border-top: double}
 tei-publicationStmt {
   display: none;
 }
-
 tei-encodingDesc {
   display: table-footer-group;
 }
-
-tei-persGrp {font-style:italic}
-
+tei-persGrp {
+  font-style:italic
+}
+tei-interpGrp {
+  font-style:italic;
+}
 #WHTWM {font-style:italic}
 #BLKWM {font-style:oblique}
 #SGA {font-weight: bold;}
