@@ -6,7 +6,7 @@
 <fileDesc>
 
 <titleStmt>
-  <title>Article 2: Legislature studies cheerleader policies</title>
+  <title>Article 2: 17 December, 1970</title>
   <author>
     <persName xml:id="jes">
       <forename>Jeannette</forename>
@@ -14,22 +14,22 @@
     </persName>
   </author>
   <respStmt>
-    <resp>Encoded by</resp>
+    <resp>Encoded by:</resp>
     <persName ref="#jes">Jeannette Schollaert</persName>
   </respStmt>
   <respStmt>
-    <resp>Under the instruction of</resp>
+    <resp>Under the instruction of:</resp>
     <persName>Matthew Kirschenbaum</persName>
     <persName>Raffaele Viglianti</persName>
     <persName>Jessica H. Lu</persName>
     <persName>Purdom Lindblad</persName>
   </respStmt>
   <respStmt>
-    <resp>Templates provided by</resp>
+    <resp>Templates provided by:</resp>
     <persName>Raffaele Viglianti</persName>
   </respStmt>
   <respStmt>
-    <resp>Analytic framework inspired by the work of</resp>
+    <resp>Analytic framework inspired by the work of:</resp>
     <persName>Jessica H. Lu</persName>
   </respStmt>
 </titleStmt>
@@ -46,7 +46,7 @@
 <sourceDesc>
   <bibl>
     <title type="main">Legislature studies cheerleader policies</title>
-    <author>Not Listed</author>
+    <author>Unnamed</author>
     <biblScope n="volume">63</biblScope>
     <biblScope n="number">68</biblScope>
     <biblScope n="pages">6</biblScope>
@@ -108,7 +108,7 @@
 <text>
 <body>
   <head rend="left" type="main"><hi rend="bold">Legislature studies cheerleader policies</hi></head>
-
+  <byline>(Author Unnamed)</byline>
   <div type="article">
     <cb n="1"/>
       <p>

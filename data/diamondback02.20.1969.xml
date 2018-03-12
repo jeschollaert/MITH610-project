@@ -6,7 +6,7 @@
 <fileDesc>
 
 <titleStmt>
-  <title>Article 1: Defacto segregation: SGA raps cheerleaders' policy</title>
+  <title>Article 1: 20 February, 1969</title>
   <author>
     <persName xml:id="jes">
       <forename>Jeannette</forename>
@@ -14,22 +14,22 @@
     </persName>
   </author>
   <respStmt>
-    <resp>Encoded by</resp>
+    <resp>Encoded by:</resp>
     <persName ref="#jes">Jeannette Schollaert</persName>
   </respStmt>
   <respStmt>
-    <resp>Under the instruction of</resp>
+    <resp>Under the instruction of:</resp>
     <persName>Matthew Kirschenbaum</persName>
     <persName>Raffaele Viglianti</persName>
     <persName>Jessica H. Lu</persName>
     <persName>Purdom Lindblad</persName>
   </respStmt>
   <respStmt>
-    <resp>Templates provided by</resp>
+    <resp>Templates provided by:</resp>
     <persName>Raffaele Viglianti</persName>
   </respStmt>
   <respStmt>
-    <resp>Analytic framework inspired by the work of</resp>
+    <resp>Analytic framework inspired by the work of:</resp>
     <persName>Jessica H. Lu</persName>
   </respStmt>
 </titleStmt>

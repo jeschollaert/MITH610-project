@@ -4,22 +4,39 @@
 }
 
 h1 {
-  text-align: center
+  text-align: center; font-family: "Times New Roman", Times, serif;
 }
-tei-div{
-  text-align:right; border-top: double}
-tei-publicationStmt {
+tei-titleStmt {
+  font-family: "Times New Roman", Times, serif;
+}
+tei-titleStmt > tei-author {
   display: none;
 }
+tei-titleStmt > tei-respStmt > tei-persName {
+  display: grid; persName;
+}
+tei-publicationStmt {
+  display: none; font-family: "Times New Roman", Times, serif;
+}
 tei-encodingDesc {
-  display: table-footer-group;
+  display: table-footer-group; font-family: "Times New Roman", Times, serif;
 }
 tei-persGrp {
   font-style:italic
 }
-tei-interpGrp {
-  font-style:italic;
+tei-body {
+  font-family: Arial, Helvetica, serif;
 }
-#WHTWM {font-style:italic}
-#BLKWM {font-style:oblique}
-#SGA {font-weight: bold;}
+tei-text > tei-div > tei-cb {
+  text-align: right;
+}
+tei-div > tei-interpGrp {
+  text-decoration: underline;
+}
+tei-interpGRp {font-style: italic;}
+#WHTWM {tei-font-style:italic}
+#BLKWM {tei-font-style:oblique}
+#SGA {tei-font-weight: bold;}
+#NAMED {tei-font-style: italic;}
+#SILENCE {tei-font-style: italic;}
+#ABSENCE {tei-font-style: italic;}
