@@ -124,7 +124,7 @@
         <date when="1969">last year</date>; <persName ref="#AS">Sharp</persName> will leave in <date when="1971-06">June</date>.</p>
       <p>
 
-        <interp ana="#SILENCE"/>
+        <interp ana="#SILENCE"/><!-- Though ostensibly an article about the legislature's actions regarding the cheerleading squad's discriminatory behavior, only the first half of the article concerns this story, so the second half of the article is enforcing a silence by changing the subject-->
 
         In addition, <orgName ref="#SGA">legislature</orgName> is now drawing up a proposal concerning the student activity fee to present to Chancel­lor <persName xml:id="CEB"><forename type="first">Charles</forename> E. <surname>Bishop</surname></persName>’s committee which <choice><orig>Is</orig><reg>is</reg></choice> studying the question of how the fee should be collected and distributed.</p>
     <cb n="2"/>
