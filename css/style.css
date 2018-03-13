@@ -55,14 +55,12 @@ tei-cb {
 tei-interp {
   font-style: italic;
 }
-/* difficulties below; text-decoration: underline | font-weight: bold*/
-tei-persName.BLKWM {
-  text-decoration: underline;
+
+tei-persName[ref="#BLKWM"] {
+  border-bottom-style: solid;
+  border-bottom-color: red;
 }
-data-tei-persName #BLKWM {
-  text-decoration: underline;
-}
-tei-persName[data-tei-persName="#WHTWM"] {
+tei-persName[ref="#WHTWM"] {
   border-bottom-style: solid;
   border-bottom-color: blue;
 }
