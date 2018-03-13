@@ -87,7 +87,7 @@
             </personGrp>
             <personGrp>
                 <persName xml:id="WHTWM">White Women</persName>
-                <note>This person group is necessary to make visible the assumptions of race underlying the language used by student journalists, which constructs whiteness as the default, neutral race. It must also be noted that this person group risks projecting understandings of race onto groups whose diversity is invisible or unapparent to a reader removed through decades of history, or groups that include white-passing individuals who deliberately silenced themselves regarding their race.</note>
+                <note>This person group is necessary to make visible the assumptions of race underlying the language used by student journalists, which constructs whiteness as the default, neutral race. It must also be noted that this person group risks projecting understandings of race onto groups whose diversity is invisible or unapparent to a reader removed through decades of history, or groups that include passing individuals who deliberately silenced themselves regarding their identities.</note>
             </personGrp>
               <listOrg>
                   <org>
@@ -113,15 +113,19 @@
       <p>
         <orgName ref="#SGA">Student Government Association</orgName> Legislature voted last night to conduct an <interp ana="#NAMED">Investigation</interp> into the present <orgName ref="#CL">cheerleader</orgName> selection process because of <interp ana="#SILENCE">alleged</interp> racial discrimination.</p>
       <p>
-        Legislator <persName xml:id="CW"><forename>Cheryl</forename> <surname>Williams</surname></persName>, who proposed the Investigation, charged the 12-member cheerleader selection panel practiced a “<q who="#CW"><choice><orig>blatent</orig><reg>blatant</reg></choice> <interp ana="#NAMED">form of institutional racism</interp></q>” because <interp ana="#ABSENCE">it did not select any of the seven</interp>
+        Legislator <persName xml:id="CW"><forename>Cheryl</forename> <surname>Williams</surname></persName>, who proposed the <interp ana="#NAMED">Investigation</interp>, charged the 12-member cheerleader selection panel practiced a “<q who="#CW"><choice><orig>blatent</orig><reg>blatant</reg></choice> <interp ana="#NAMED">form of institutional racism</interp></q>” because <interp ana="#ABSENCE">it did not select any of the seven
+        </interp>
         <persName ref="#BLKWM">blacks</persName> who tried out for the seven vacant positions on the 10-girl squad.</p>
       <p>
         According to <persName ref="#CW">Williams</persName>, two of the seven <persName ref="BLKWM">blacks</persName> made it to the top ten but were not among the <persName ref="WHTWM">girls</persName> chosen to fill out the squad. <interp ana="#ABSENCE">The squad will have no black members next year</interp>.</p>
       <p>
-        Last <date when="1969-12">December</date> <persName xml:id="AS"><forename>Angie</forename> <surname>Sharp</surname></persName> and <persName xml:id="JR"><forename>Jacqueline</forename> <surname>Robinson</surname></persName> became the <interp ana="#NAMED">first black cheerleaders</interp> on the squad in 30 years. <persName ref="#JR">Robinson</persName> dropped off the squad
+        Last <date when="1969-12">December</date> <persName xml:id="AS"><forename>Angie</forename> <surname>Sharp</surname></persName> and <persName xml:id="JR"><forename>Jacqueline</forename> <surname>Robinson</surname></persName> became the <interp ana="#NAMED">first black cheerleaders</interp> on the squad in <interp ana="#ABSENCE">30 years</interp>.
+        <persName ref="#JR">Robinson</persName> dropped off the squad
         <date when="1969">last year</date>; <persName ref="#AS">Sharp</persName> will leave in <date when="1971-06">June</date>.</p>
       <p>
+
         <interp ana="#SILENCE"/>
+
         In addition, <orgName ref="#SGA">legislature</orgName> is now drawing up a proposal concerning the student activity fee to present to Chancel­lor <persName xml:id="CEB"><forename type="first">Charles</forename> E. <surname>Bishop</surname></persName>’s committee which <choice><orig>Is</orig><reg>is</reg></choice> studying the question of how the fee should be collected and distributed.</p>
     <cb n="2"/>
       <p>
